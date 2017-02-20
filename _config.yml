@@ -1,5 +1,5 @@
-title:            Scribble
-description:      A jekyll theme. Because I scribble.
+title:            Hrothgar
+description:      
 url:              # Site url, without a slash at the end.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -10,10 +10,9 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
-    external:     true
+    url:          /
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/hrothgar
     external:     true
 highlighter:      pygments
 permalink:        pretty
