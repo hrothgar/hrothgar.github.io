@@ -14,7 +14,7 @@ links:
   - name:         GitHub
     url:          http://github.com/hrothgar
     external:     true
-highlighter:      pygments
+highlighter:      rouge
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
