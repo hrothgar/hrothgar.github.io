@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  improverbs
-meow:   Improverbs are improvised, improper corruptions of proverbs. They're related to malaphors, but better.
+title:  Improverbs
 ---
 
 by me:

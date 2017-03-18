@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Obscure sorrows
+title:  Obscure sorrows
 ---
 
 Inspired by John Koenig's _Dictionary of Obscure Sorrows_.
