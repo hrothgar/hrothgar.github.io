@@ -16,5 +16,8 @@ links:
   - name:         18 Salem
     url:          http://18salem.com/
     external:     true
+
+include: ['words']
+
 highlighter:      rouge
 permalink:        pretty
