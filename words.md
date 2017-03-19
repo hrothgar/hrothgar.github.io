@@ -3,6 +3,6 @@ layout: page
 title: Words
 ---
 
-- [Improverbs](improverbs.html)
+- [Improverbs](improverbs/)
 
-- [Obscure sorrows](obscuresorrows.html)
+- [Obscure sorrows](obscuresorrows/)
