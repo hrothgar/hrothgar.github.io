@@ -7,17 +7,19 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  # - name:         Art
-  #   url:          /art
+  - name:         Art
+    url:          /art/
   # - name:         Music
-  #   url:          /music
-  - name:         Words
-    url:          /words
+  #   url:          /music/
+  # - name:         scenes from dreams
+  #   url:          /scenesfromdreams/
+  - name:         words
+    url:          /words/
   - name:         18 Salem
     url:          http://18salem.com/
     external:     true
 
-include: ['words']
+include: ['words', 'art']
 
 highlighter:      rouge
 permalink:        pretty
