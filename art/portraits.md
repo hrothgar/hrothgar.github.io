@@ -6,20 +6,20 @@ title:  Portraits of me
 
 by a stranger at the art market (2017):
 
-![by a stranger at the art market](/images/art/portrait-cathat-t.jpg "by a stranger at the art market")
+![by a stranger at the art market](/images/portraits/portrait-cathat-t.jpg "by a stranger at the art market")
 
 by Sharon (2017):
 
-![by Sharon](/images/art/portrait-sharon-t.jpg "by Sharon")
+![by Sharon](/images/portraits/portrait-sharon-t.jpg "by Sharon")
 
 by Mackenzie (2016):
 
-![by Mackenzie](/images/art/portrait-mac-t.jpg "by Mackenzie")
+![by Mackenzie](/images/portraits/portrait-mac-t.jpg "by Mackenzie")
 
 by Edwin (2016):
 
-![by Edwin](/images/art/portrait-edwin2-t.jpg "by Edwin")
+![by Edwin](/images/portraits/portrait-edwin2-t.jpg "by Edwin")
 
 by Edwin (2016):
 
-![by Edwin](/images/art/portrait-edwin1-t.jpg "by Edwin")
+![by Edwin](/images/portraits/portrait-edwin1-t.jpg "by Edwin")
