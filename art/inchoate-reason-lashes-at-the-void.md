@@ -1,6 +1,8 @@
 ---
 layout: page
-title:  Portraits of me
+title:  Inchoate Reason Lashes at the Void
 ---
 
-![coming soon](/images/art/x.jpg "coming soon")
+2017.
+
+![Inchoate Reason Lashes at the Void, 2017](/images/art/inchoatereason.jpg "Inchoate Reason Lashes at the Void, 2017")
