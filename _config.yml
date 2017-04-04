@@ -4,7 +4,7 @@ url:              # Site url, without a slash at the end.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: UA-96730045-1
 
 links:
   - name:         art
@@ -17,6 +17,9 @@ links:
     url:          /words/
   - name:         18 salem
     url:          http://18salem.com/
+    external:     true
+  - name:         tell me
+    url:          http://www.admonymous.com/hrothgar
     external:     true
 
 include: ['words', 'art']
