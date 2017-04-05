@@ -10,7 +10,7 @@ by a stranger at the art market (2017):
 
 by Sharon (2017):
 
-![by Sharon](/images/portraits/portrait-sharon-t.jpg "by Sharon")
+![by Sharon](/images/portraits/portrait-sharon2-t.jpg "by Sharon")
 
 by Mackenzie (2016):
 
@@ -23,3 +23,7 @@ by Edwin (2016):
 by Edwin (2016):
 
 ![by Edwin](/images/portraits/portrait-edwin1-t.jpg "by Edwin")
+
+by Sharon (2016):
+
+![by Sharon](/images/portraits/portrait-sharon1-t.jpg "by Sharon")
