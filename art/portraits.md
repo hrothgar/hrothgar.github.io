@@ -26,4 +26,4 @@ by Edwin (2016):
 
 by Sharon (2016):
 
-![by Sharon](/images/portraits/portrait-skeptic-t.jpg "by Sharon")
+![by Sharon](/images/portraits/portrait-skeptic-t.jpeg "by Sharon")
