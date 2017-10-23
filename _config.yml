@@ -26,3 +26,5 @@ include: ['words', 'art']
 
 highlighter:      rouge
 permalink:        pretty
+
+theme: jekyll-theme-minimal
